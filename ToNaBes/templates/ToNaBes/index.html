@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome screen</title>
+</head>
+<body>
+    <h1>Bem-vindo ao sistema de gestão da tabacaria TôNaBê</h1>
+    <p>Você precisa estar logado para acessar o sistema!
+        <br><br><br>Você já tem uma conta?</p>
+    <a href="{% url 'login' %}">
+    <button>Faça seu login</button>
+</a>
+<br><br><br>
+<p>Ainda não tem uma conta?</p>
+<a href="{% url 'cadastro' %}">
+    <button>Cadastre-se</button>
+</a>
+
+</body>
+</html>
