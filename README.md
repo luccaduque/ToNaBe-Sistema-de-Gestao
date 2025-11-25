@@ -3,5 +3,5 @@ Projeto <b>ToNaBê Tabacaria e Headshops</b><br><br>
 <br>
 
 <p align="center">
-  <img src="staticfiles/img/logo_header_bg_removed.png" alt="Logo" width="200">
+  <img src="staticfiles/admin/img/logo_header_bg_removed.png" alt="Logo" width="200">
 </p>
