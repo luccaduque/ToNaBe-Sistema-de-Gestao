@@ -30,9 +30,6 @@ SESSION_COOKIE_SECURE = False
 CSRF_COOKIE_SECURE = False
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://nine-dots-wish.loca.lt/",
-    "http://127.0.0.1",
-    "http://localhost",
     "https://web-production-65813.up.railway.app/",
     
 ]
